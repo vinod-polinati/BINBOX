@@ -9,7 +9,7 @@ Shipping warehouses face the "box problem": identifying the most cost-effective 
 We present a novel deep learning-based approach that streamlines the box selection process for warehouses, leading to significant cost savings in packaging materials. This is a very rare and unique problem. sOur solution leverages:
 
 * **Synthetic Data Generation:** We create a comprehensive dataset of 100,000 simulated historical orders, accurately reflecting real-world order patterns. This dataset includes:
-    * Order IDs
+    * Order ID's
     * Number of items per order
     * Item descriptions
     * Item dimensions (x, y, z)
