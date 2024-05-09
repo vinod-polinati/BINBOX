@@ -16,7 +16,7 @@ We present a novel deep learning-based approach that streamlines the box selecti
 * **Optimization: Taking advantage of existing ILP, LP solvers by identifying how you should frame the problem:
     * we use PuLP module in python which can help us in using the ILP and LP solvers.
 
- we have also tried other approchs
+ We also tried it using other approaches
  
 * **Deep Learning Model:** We employ a state-of-the-art 3D Convolutional Neural Network (CNN) to effectively capture the spatial relationships between items in different orientations within potential boxes. This model is meticulously trained using the synthetic data to:
     * Analyze order details (number of items, item dimensions)
